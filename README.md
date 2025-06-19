@@ -44,7 +44,7 @@ npm install
 
 npm run dev
 
- Author
-Name: Sulaima Khalil
+ Author:
 
+Name: Sulaima Khalil
 GitHub: https://github.com/SulaimaKhalil785
