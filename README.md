@@ -11,13 +11,6 @@ This is a simple To-Do application built with [React](https://reactjs.org/) and 
 - 📋 Mark tasks as complete/incomplete
 - Responsive UI using Material-UI components
 
-## 📸 Screenshots
-
-> *(You can upload screenshot in GitHub and copy the image URL here)*
-
-![App Screenshot](./screenshot.png)
-
-## 📂 Project Structure
 
 src/
 ├── components/
