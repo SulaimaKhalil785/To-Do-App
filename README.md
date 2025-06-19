@@ -1,1 +1,57 @@
 # To-Do-App
+
+
+This is a simple To-Do application built with [React](https://reactjs.org/) and [Material UI](https://mui.com/) to help users manage their daily tasks.
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- 📋 Mark tasks as complete/incomplete
+- Responsive UI using Material-UI components
+
+## 📸 Screenshots
+
+> *(You can upload screenshot in GitHub and copy the image URL here)*
+
+![App Screenshot](./screenshot.png)
+
+## 📂 Project Structure
+
+src/
+├── components/
+│ ├── AddTaskForm.jsx
+│ ├── DisplayTasks.jsx
+│ ├── Edit.jsx
+│ ├── MuiWelcome.jsx
+│ └── TaskMenu.jsx
+├── pages/
+│ └── MuiHome.jsx
+├── App.jsx
+
+
+
+---
+
+## 💻 Getting Started
+
+### 🔹 Clone the Repository
+
+```bash
+git clone https://github.com/SulaimaKhalil785/To-Do-App.git
+cd To-Do-App
+
+
+🔹 Install Dependencies
+
+npm install
+
+🔹 Start the App
+
+npm run dev
+
+ Author
+Name: Sulaima Khalil
+
+GitHub: https://github.com/SulaimaKhalil785
